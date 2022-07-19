@@ -6,5 +6,6 @@
 
 #### Carl's updates
 - 🔭 I’m currently working on [Patternize.io](https://patternize.github.io/)
-- 🌱 I’m currently learning A/B Test by reading [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical)
+- 🌱 I’m currently learning Flutter, iOS and Android, let's chat if interested
 - 📈 I’m currently trying to contribute to [airbnb/visx](https://airbnb.io/visx/)
+- 🚀 Trying to do something cool in the metaverse space
