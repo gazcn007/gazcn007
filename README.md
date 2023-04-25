@@ -1,6 +1,6 @@
 
 ### Hi there 👋 
-<img align="right"  src="https://github.com/gazcn007/gif/blob/main/faron.gif">
+<img align="right" width="40%" src="https://github.com/gazcn007/gif/blob/main/faron.gif">
 
 - 😄 Pronouns: He/His
 - 📫 How to reach me: gazcn007@gmail.com
