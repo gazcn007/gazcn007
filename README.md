@@ -8,3 +8,5 @@
 #### Carl's updates
 - 🔭 I’m currently working on [Patternize.io](https://patternize.github.io/)
 - 🚀 Trying to do something cool in the metaverse space
+
+_**"May the flames guide thee, my friend"**_
