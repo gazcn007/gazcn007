@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on [Patternize.io](https://patternize.github.io/)
 
 <br/>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gazcn007?cardType=github&theme=radical&preferLogin=false" >
 
 <div style="display: flex; align-items: center;">
   <img src="https://readme-daily-quotes.vercel.app/api?author=Helmuth+von+Moltke&quote=No+battle+plan+survives+contact+with+the+enemy.&theme=radical" width="400">
