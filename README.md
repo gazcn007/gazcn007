@@ -9,11 +9,11 @@
 - 🔭 I’m currently working on [Patternize.io](https://patternize.github.io/)
 
 <br/>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gazcn007?cardType=github&theme=radical&preferLogin=false" width="1000" >
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gazcn007?cardType=github&theme=radical&preferLogin=false" >
 
 <div style="display: flex; align-items: center;">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Helmuth+von+Moltke&quote=No+battle+plan+survives+contact+with+the+enemy.&theme=radical" width="500">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Helmuth+von+Moltke&quote=No+battle+plan+survives+contact+with+the+enemy.&theme=radical" width="400">
   <a href="https://steamcommunity.com/id/gazcn007/">
-    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198027686293&animated_avatar=true&show_recent_game_bg=true" width="500">
+    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198027686293&animated_avatar=true&show_recent_game_bg=true" width="400">
   </a>
 </div>
