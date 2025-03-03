@@ -6,8 +6,9 @@
 
 
 #### **About Me**  
-- 🌐 I share my thoughts and work on [carlrocks.com](https://www.carlrocks.com), where I write about engineering, product design, and business.  
-- 🎓 I’m passionate about the intersection of technology, education, and design. Deeply interested in the future of education and the power of visual tools in learning complex topics.
+- 🌐 I share my thoughts and work on [carlrocks.com](https://www.carlrocks.com), where I write about engineering, product design, and business.
+- 🔥 I’m passionate about the intersection of technology, education, and design. Deeply interested in the future of education and the power of visual tools in learning complex topics.
+- 🎓 I got my bachelor’s degree from McGill University 🇨🇦 in 2018, currently doing my masters at Stanford University 🇺🇸.
 
 <div align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=Steve+Jobs&quote=The+ones+who+are+crazy+enough+to+think+that+they+can+change+the+world,+are+the+ones+who+do.&theme=radical" width="400">
