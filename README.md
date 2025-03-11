@@ -1,7 +1,7 @@
 ### Welcome to My Profile 👋  
 
 - **Pronouns**: He/His  
-- **Background**: Bachelor's @ McGill (2018) 🇨🇦 → Master’s @ Stanford 🇺🇸. Currently running a venture based in the Bay Area. Former Software Engineer at Tableau and Airbnb.
+- **Background**: Bachelor's @ McGill (2018) 🇨🇦 → Master’s @ Stanford (2026) 🇺🇸. Currently running a venture based in the Bay Area. Former Software Engineer at Tableau and Airbnb.
 - **Current Focus**: Revolutionizing tech education through [🚀 Patternize.io](https://patternize.github.io) by creating interactive visualizations for algorithms and data structures.  
 
 
