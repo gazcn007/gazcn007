@@ -7,7 +7,7 @@
 
 #### **About Me**  
 - 🌐 I share my thoughts and work on [carlrocks.com](https://www.carlrocks.com), where I write about engineering, product design, and business.
-- 🔥 I’m passionate about the intersection of technology, education, and design. Deeply interested in the future of education and the power of interactive animations in learning complex topics.
+- 🔥 I’m passionate about the intersection of technology, design, and STEM education. Deeply interested in the future of education and the power of interactive animations in learning complex topics.
 
 <div align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=Steve+Jobs&quote=The+ones+who+are+crazy+enough+to+think+that+they+can+change+the+world,+are+the+ones+who+do.&theme=radical" width="400">
