@@ -1,11 +1,12 @@
 ### Welcome to My Profile 👋  
 
 - **Pronouns**: He/His  
-- **Background**: I was born in China 🇨🇳 → Bachelor's @ McGill (2018) 🇨🇦 → Master’s @ Stanford (2026) 🇺🇸. Currently running a venture based in the Bay Area. Former Software Engineer at Tableau and Airbnb.
-- **Current Focus**: Revolutionizing tech education through [🚀 Patternize.io](https://patternize.github.io) by creating interactive visualizations for algorithms and data structures.  
+- **Background**: Born in China 🇨🇳 → B.Sc @ McGill (2018) 🇨🇦 → M.S @ Stanford (2026) 🇺🇸  
+- **Current Focus**: Revolutionizing education tech through [🚀 Patternize.io](https://patternize.github.io) and [👂🏻NativePod](https://nativepod.co/).
 
 
-#### **About Me**  
+#### **About Me**
+- ❗ VIM is better than Emacs.
 - 🌐 I share my thoughts and work on [carlrocks.com](https://www.carlrocks.com), where I write about engineering, product design, and business.
 - 🔥 I’m passionate about the intersection of technology, design, and STEM education. Deeply interested in the future of education and the power of interactive animations in learning complex topics.
 
