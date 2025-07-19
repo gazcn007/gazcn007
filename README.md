@@ -11,5 +11,5 @@
 - 🔥 I’m passionate about the intersection of technology, design, and STEM education. Deeply interested in the future of education and the power of interactive animations in learning complex topics.
 
 <div align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Steve+Jobs&quote=The+ones+who+are+crazy+enough+to+think+that+they+can+change+the+world,+are+the+ones+who+do.&theme=radical" width="400">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Steve+Jobs&quote=The+ones+who+are+crazy+enough+to+think+that+they+can+change+the+world,+are+the+ones+who+do." width="400">
 </div>
