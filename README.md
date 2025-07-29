@@ -1,7 +1,7 @@
 ### Welcome to My Profile 👋  
 
 - **Pronouns**: He/His  
-- **Background**: Born in China 🇨🇳 → B.Sc @ McGill (2018) 🇨🇦 → M.S @ Stanford (2026) 🇺🇸  
+- **Background**: China 🇨🇳 → McGill, Montreal (2018) 🇨🇦 → Stanford, California (2026) 🇺🇸 , ex-Tableau, Salesforce, Airbnb
 - **Current Focus**: Revolutionizing education tech through [🚀 Patternize.io](https://patternize.github.io) and [👂🏻NativePod](https://nativepod.co/).
 
 
