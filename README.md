@@ -2,7 +2,7 @@
 
 - **Pronouns**: He/His  
 - **Background**: 🇨🇳 → 🇨🇦 → 🇺🇸, ex-Tableau, ex-Airbnb, Start-Ups
-- **Current Focus**: Revolutionizing education tech through [🚀 Patternize.io](https://patternize.github.io) and [👂🏻NativePod](https://nativepod.co/).
+- **Current Focus**: Revolutionizing education tech through visualization [🚀 Patternize.io](https://patternize.github.io) and audio [👂🏻 NativePod](https://nativepod.co/).
 
 
 #### **About Me**
